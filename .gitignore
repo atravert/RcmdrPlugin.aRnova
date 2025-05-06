@@ -1,0 +1,23 @@
+# Exclude R data files
+*.RData
+*.Rds
+
+# Exclude R project files
+*.Rproj
+
+# Exclude R user settings
+.Rprofile
+.REnv
+
+# Exclude compiled files from Rcpp and other compiled code
+*.o
+*.so
+*.dll
+*.dylib
+
+# Exclude log files
+*.log
+logs/
+
+# Exclude build directories
+build/
