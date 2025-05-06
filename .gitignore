@@ -21,3 +21,4 @@ logs/
 
 # Exclude build directories
 build/
+.Rproj.user
