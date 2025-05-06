@@ -28,12 +28,12 @@ Description: R Commander plug-in for repeated-measures and mixed-design
     multiWayAnova() functions, such as choice of ANOVA type, display of
     effect sizes and post hoc analysis for multiWayAnova().
 RcmdrModels:
-License: GPL-3 + file LICENSE
+License: GPL (>=2)
 LazyLoad: yes
 LazyData: yes
 NeedsCompilation: no
 RoxygenNote: 7.3.2
 VignetteBuilder: knitr
-Packaged: 2025-05-06 11:53:45 UTC; Arnaud
+Packaged: 2025-05-06 11:53:45 UTC
 Repository: CRAN
 Date/Publication: 2025-05-06 12:30:33 UTC
